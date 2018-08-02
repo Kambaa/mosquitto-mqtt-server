@@ -1,3 +1,16 @@
+# Mosquitto MQTT server for windows (ready to use version)
+
+Original app installation requires downloading some ddl files and copying to the app dir. Too lazy to that, i found an tutorial article (will paste the link later when i find it again :lol: ) and downloaded the ready-to-use version of it.
+
+Files in this repo has been downloaded from some tutorial page some dude written(I will find the link and paste it here later). Since original setup became a hussle to me, i put the ready-to-use version here. I did not checked for viruses or other stuff, instead i'm using this in my sandboxed VM (W7). 
+
+@Todo: find the tutorial link
+@Todo: add how to instructions for simple use cases like: starting up the server, securing it with password, adding ssl/tls secure layer etc.
+
+
+
+Below is the original app readme: 
+
 Mosquitto
 =========
 
